@@ -12,7 +12,7 @@ I am editing the README file. Adding some more details about the project descrip
 * Hello World
 * Module Review
 
-### Week 2 **Basic Python Syntax*
+### Week 2 **Basic Python Syntax**
 
 * Expression and Variables
 * Functions
