@@ -45,7 +45,7 @@ I am editing the README file. Adding some more details about the project descrip
 * Final Project
 * Course Wrap Up
 
-## Using Python to interact with operatinal system
+## Using Python to interact with operational system
 
 ## Introduction to Git and GitHub
 
