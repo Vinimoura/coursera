@@ -52,7 +52,7 @@ Course Wrap Up
 
 ## Using Python to interact with operatinal system
 
-## Ingtroduction to Git and GitHub
+## Introduction to Git and GitHub
 
 
 
